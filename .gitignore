@@ -1,0 +1,10 @@
+node_modules/
+public/models/*.task
+public/models/*.task.tmp
+*.log
+.DS_Store
+test-results/
+.venv-training/
+training/data/
+training/runs/
+training/__pycache__/
